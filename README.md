@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikMekiassen
-- 👀 I’m interested in Game development 
-- 🌱 I’m currently learning C# and JS/html5/css
+- 👀 I’m interested in Game development and web development
+- 🌱 I’m currently learning C# and JS/html5/css and node/reactjs
 - 💞️ I’m looking to collaborate on game design preferebly in unity
 - 📫 How to reach me +47 462 99 513 | emvit#1241 // on discord :)
 - 🈵 Im fluent in english and norwegian 
