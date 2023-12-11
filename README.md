@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikMekiassen
-- 👀 I’m interested in backend development and web development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning kotlin springboot, sql, expressjs and server maintence(Docker, Raid, SSL, nginx(reverse proxy), linux and etc)
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me +47 462 99 513 | emekiassen@gmail.com:)
+- 📫 How to reach me emekiassen@gmail.com
 - 🈵 Im fluent in english and norwegian   
